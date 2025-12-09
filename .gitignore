@@ -1,0 +1,5 @@
+.csv
+data/
+models/
+_pycache_/
+.ipynb_checkpoints/
