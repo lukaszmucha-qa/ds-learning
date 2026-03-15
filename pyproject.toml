@@ -1,0 +1,9 @@
+[project]
+name = "ds-learning"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "notebook>=7.5.4",
+    "numpy>=2.4.3",
+]
